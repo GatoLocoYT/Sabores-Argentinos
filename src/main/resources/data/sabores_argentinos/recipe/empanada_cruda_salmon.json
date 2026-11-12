@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat",
+    [
+      "minecraft:salmon",
+      "minecraft:cooked_salmon",
+      "minecraft:salmon_bucket"
+    ]
+  ],
+  "result": {
+    "id": "sabores_argentinos:empanada_cruda_salmon",
+    "count": 1
+  },
+  "group": "sabores_argentinos_empanadas_crudas"
+}

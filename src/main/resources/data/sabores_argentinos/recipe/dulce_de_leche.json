@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": "minecraft:milk_bucket",
+  "result": {
+    "id": "sabores_argentinos:dulce_de_leche"
+  },
+  "cookingtime": 400,
+  "experience": 0.35
+}

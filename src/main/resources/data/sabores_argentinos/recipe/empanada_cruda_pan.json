@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat",
+    "minecraft:bread"
+  ],
+  "result": {
+    "id": "sabores_argentinos:empanada_cruda_pan",
+    "count": 1
+  },
+  "group": "sabores_argentinos_empanadas_crudas"
+}

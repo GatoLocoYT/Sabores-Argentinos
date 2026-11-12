@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": "sabores_argentinos:empanada_cruda_ojo_de_arana",
+  "result": {
+    "id": "sabores_argentinos:empanada_ojo_de_arana"
+  },
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "sabores_argentinos_empanadas"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat",
+    [
+      "minecraft:potato",
+      "minecraft:baked_potato"
+    ]
+  ],
+  "result": {
+    "id": "sabores_argentinos:empanada_cruda_papa",
+    "count": 1
+  },
+  "group": "sabores_argentinos_empanadas_crudas"
+}

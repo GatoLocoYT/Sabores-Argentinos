@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat",
+    [
+      "minecraft:chicken",
+      "minecraft:cooked_chicken"
+    ]
+  ],
+  "result": {
+    "id": "sabores_argentinos:empanada_cruda_pollo",
+    "count": 1
+  },
+  "group": "sabores_argentinos_empanadas_crudas"
+}

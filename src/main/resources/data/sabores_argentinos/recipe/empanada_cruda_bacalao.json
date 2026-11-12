@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat",
+    [
+      "minecraft:cod",
+      "minecraft:cooked_cod",
+      "minecraft:cod_bucket"
+    ]
+  ],
+  "result": {
+    "id": "sabores_argentinos:empanada_cruda_bacalao",
+    "count": 1
+  },
+  "group": "sabores_argentinos_empanadas_crudas"
+}

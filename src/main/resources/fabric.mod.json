@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "sabores_argentinos",
+  "version": "1.0.0+26.3",
+  "name": "Sabores Argentinos",
+  "description": "Mate amargo, choripán, empanadas, alfajores y dulce de leche para Minecraft.",
+  "environment": "*",
+  "icon": "assets/sabores_argentinos/textures/item/mate_amargo.png",
+  "entrypoints": {
+    "main": ["ar.sabores.SaboresArgentinos"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "fabric-creative-tab-api-v1": ">=5.0.22",
+    "minecraft": "26.3",
+    "java": ">=25"
+  }
+}

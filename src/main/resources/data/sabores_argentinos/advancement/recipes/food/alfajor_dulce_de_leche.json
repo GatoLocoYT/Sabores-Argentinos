@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipes": "sabores_argentinos:alfajor_dulce_de_leche"
+      }
+    },
+    "has_ingredients": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:cookie"
+          },
+          {
+            "items": "sabores_argentinos:dulce_de_leche"
+          },
+          {
+            "items": "minecraft:cookie"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_recipe",
+      "has_ingredients"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "sabores_argentinos:alfajor_dulce_de_leche"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:cookie",
+    "sabores_argentinos:dulce_de_leche",
+    "minecraft:cookie"
+  ],
+  "result": {
+    "id": "sabores_argentinos:alfajor_dulce_de_leche",
+    "count": 4
+  }
+}

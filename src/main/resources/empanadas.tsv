@@ -1,0 +1,36 @@
+id	es	en	ingredients	accent	effects
+carne_picante	Carne picante	Spicy beef	beef|cooked_beef+sweet_berries	ee493e	speed:25:1,instant_damage:0:1:20
+humita	Humita	Humita	pumpkin_seeds+milk_bucket	f3d94b	regeneration:8:1
+carne	Carne	Beef	beef|cooked_beef	bc5147	strength:25:1
+pollo	Pollo	Chicken	chicken|cooked_chicken	e1ad61	jump_boost:30:1
+cerdo	Cerdo	Pork	porkchop|cooked_porkchop	e58b89	resistance:20:1
+cordero	Cordero	Mutton	mutton|cooked_mutton	9c494e	health_boost:30:1
+conejo	Conejo	Rabbit	rabbit|cooked_rabbit	c18161	speed:15:2
+bacalao	Bacalao	Cod	cod|cooked_cod|cod_bucket	6bb2be	water_breathing:45:1
+salmon	Salmón	Salmon	salmon|cooked_salmon|salmon_bucket	f07c57	dolphins_grace:30:1
+pescado_tropical	Pescado tropical	Tropical fish	tropical_fish|tropical_fish_bucket	f39e35	conduit_power:25:1
+pez_globo	Pez globo	Pufferfish	pufferfish|pufferfish_bucket	e6b939	nausea:10:1
+papa	Papa	Potato	potato|baked_potato	c0a76a	haste:30:1
+papa_venenosa	Papa venenosa	Poisonous potato	poisonous_potato	769647	poison:6:1
+zanahoria	Zanahoria	Carrot	carrot	ed8d37	night_vision:30:1
+zanahoria_dorada	Zanahoria dorada	Golden carrot	golden_carrot	ffc734	night_vision:70:1
+remolacha	Remolacha	Beetroot	beetroot	b43663	instant_health:0:1
+sopa_de_remolacha	Sopa de remolacha	Beetroot soup	beetroot_soup	cd5b73	regeneration:10:1,resistance:10:1
+manzana	Manzana	Apple	apple	e75848	absorption:20:1
+manzana_dorada	Manzana dorada	Golden apple	golden_apple	fbc94c	absorption:35:2
+manzana_encantada	Manzana dorada encantada	Enchanted golden apple	enchanted_golden_apple	db7cff	absorption:60:3,regeneration:10:2
+sandia	Sandía	Melon	melon_slice	80ad52	slow_falling:20:1
+bayas_dulces	Bayas dulces	Sweet berries	sweet_berries	a43b52	luck:45:1
+bayas_luminosas	Bayas luminosas	Glow berries	glow_berries	ffa93f	glowing:25:1
+fruta_coral	Fruta coral	Chorus fruit	chorus_fruit	a26cb7	levitation:3:1
+algas	Algas	Dried kelp	dried_kelp	5d9b65	breath_of_the_nautilus:30:1
+pan	Pan	Bread	bread	b89454	saturation:0:1
+galleta	Galleta	Cookie	cookie	a26a4c	haste:12:2
+pastel_de_calabaza	Pastel de calabaza	Pumpkin pie	pumpkin_pie	e89449	fire_resistance:35:1
+torta	Torta	Cake	cake	f0e0ca	instant_health:0:2
+miel	Miel	Honey	honey_bottle	e5ac43	regeneration:15:1
+guiso_de_hongos	Guiso de hongos	Mushroom stew	mushroom_stew	aa805c	invisibility:20:1
+estofado_de_conejo	Estofado de conejo	Rabbit stew	rabbit_stew	b58e50	jump_boost:20:2
+guiso_sospechoso	Guiso sospechoso	Suspicious stew	suspicious_stew	8d749f	blindness:5:1
+carne_podrida	Carne podrida	Rotten flesh	rotten_flesh	8e9b4d	hunger:12:1
+ojo_de_arana	Ojo de araña	Spider eye	spider_eye	954657	weakness:12:1

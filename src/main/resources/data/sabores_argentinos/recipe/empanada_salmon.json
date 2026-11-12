@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": "sabores_argentinos:empanada_cruda_salmon",
+  "result": {
+    "id": "sabores_argentinos:empanada_salmon"
+  },
+  "cookingtime": 200,
+  "experience": 0.2,
+  "group": "sabores_argentinos_empanadas"
+}

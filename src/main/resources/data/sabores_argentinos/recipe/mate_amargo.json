@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:dried_kelp",
+    "minecraft:water_bucket"
+  ],
+  "result": {
+    "id": "sabores_argentinos:mate_amargo",
+    "count": 1
+  }
+}

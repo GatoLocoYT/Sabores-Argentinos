@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:wheat",
+    [
+      "minecraft:tropical_fish",
+      "minecraft:tropical_fish_bucket"
+    ]
+  ],
+  "result": {
+    "id": "sabores_argentinos:empanada_cruda_pescado_tropical",
+    "count": 1
+  },
+  "group": "sabores_argentinos_empanadas_crudas"
+}
